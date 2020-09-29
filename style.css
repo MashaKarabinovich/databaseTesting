@@ -32,7 +32,6 @@ ul.list li{
 }
 ul.list li input{
     width: 250px; 
-    text-align:center;
     padding: 8px 0px;
     border: none; 
     background-color: #d3d3d3; 
