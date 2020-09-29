@@ -1,8 +1,8 @@
 <?php
 
-$nameVariable = $_GET ["userID"];
-$_GET ["gradesEntered"];
-//$_POST ["gradesEntered"]
+$nameVariable = $_POST ["userID"];
+$_POST ["gradesEntered"];
+
 
 
 ?>
